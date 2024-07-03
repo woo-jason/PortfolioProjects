@@ -1,1 +1,1 @@
-Data Cleaning and Exploratory Analysis - use layoffs dataset
+Data Cleaning and Exploratory Analysis projects - use layoffs dataset
